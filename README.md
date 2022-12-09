@@ -7,4 +7,4 @@ My first repository
 
 ![HelloWorldPoster](https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2020/02/MV5BYzdlZGM2YmEtZWU3NC00MDZmLThmOTYtMGFjYzYwMGIyNjZiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg)
 
-**<mark> Spoiler Alert - This anime hits you right in the feels. </mark>**
+**<mark> Spoiler Alert - This anime hits you right in the feels. :cry: </mark>**
